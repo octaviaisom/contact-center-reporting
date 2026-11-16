@@ -10,8 +10,8 @@ My goal was to show the judgment involved in both parts of the work. For the mig
 
 - **Original Tableau dashboard** · [Call Center Agent Analytics by phData on Tableau Exchange](https://exchange.tableau.com/products/662)
 - **Power BI report** · [Published Dashboard](https://app.powerbi.com/links/HSQbvuukss?ctid=99f16da4-77a2-4e2f-b4c8-6d86828b58fa&pbi_source=linkShare&bookmarkGuid=2a85bbfb-4a05-4df2-882d-a0ce9a7cbd4b)
-- **Tableau dependency analysis** · Add the Python script and field inventory
-- **KPI Health analysis** · Add the Python script and weekly KPI export
+- **[Tableau dependency analysis](https://github.com/octaviaisom/contact-center-reporting/blob/main/tableau_parsing_script.py)**
+- **[KPI Health analysis](https://github.com/octaviaisom/contact-center-reporting/blob/main/kpi_anomaly_script.py)**
 
 ## Executive Summary
 
