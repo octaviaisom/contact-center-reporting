@@ -3,8 +3,10 @@
 This project is a business analytics case study focused on migrating a contact center dashboard from Tableau to Power BI and extending it with a **KPI Health** page. The migration preserved the core reporting logic, while the new page gave support managers and analysts a way to identify unusual week-over-week changes and decide where to investigate.
 
 My goal was to show the judgment involved in both parts of the work. For the migration, that meant understanding which calculations and interactions the business relied on and choosing the right Power BI equivalents. For the extension, it meant building a repeatable analysis that made unusual changes easy to spot and interpret.
-
-![](pbi_screenshot.png)
+<p align="center">
+  <img src="pbi_screenshot.png" width="49%" alt="Overview Tab" />
+  <img src="pbi_page2_screenshot.png" width="49%" alt="Metric Health Tab" />
+</p>
 
 ## Project Links
 
